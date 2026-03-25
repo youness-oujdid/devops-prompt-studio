@@ -120,7 +120,7 @@ export default function App() {
 
   const bootLines = [
     "# whoami",
-    "$ yo980328",
+    "$ youness-oujdid",
     "",
     "# cat profile.txt",
     "→ DevOps Engineer  |  Platform Builder  |  Terminal Nerd",
@@ -213,7 +213,7 @@ export default function App() {
             fontWeight: 800, margin: "0 0 8px",
             color: "#e6edf3", letterSpacing: "-1.5px", lineHeight: 1.1
           }}>
-            yo980328
+            YOUNESS OUJDID
           </h1>
           <h1 style={{
             fontFamily: "'JetBrains Mono', monospace",
